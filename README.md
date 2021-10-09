@@ -40,8 +40,7 @@ UI Design inspired by :
 3. Run the App
 
 ## Contact
-
-- [Ariz Armeidi](https://github.com/ArizArmeidi/) | [Twitter](https://twitter.com/ArizArmeidi) | [Instagram](https://www.instagram.com/ariz.armeidi/)
+- Raj Aryan 
 - If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.com/paypalme/arizarmeidi)
 
 ## License
