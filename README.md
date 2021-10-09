@@ -41,7 +41,5 @@ UI Design inspired by :
 
 ## Contact
 - Raj Aryan 
-- If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.com/paypalme/arizarmeidi)
-
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
